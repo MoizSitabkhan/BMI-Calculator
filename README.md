@@ -8,3 +8,10 @@ BMI Calculator made with Python GUI
 #### GUI looks like this :
 
 ![GUI Home](https://github.com/MoizSitabkhan/BMI-Calculator/blob/master/images/Image%201.png)
+<hr>
+
+![GUI Home](https://github.com/MoizSitabkhan/BMI-Calculator/blob/master/images/Image%202.png)
+
+<hr>
+
+![GUI Home](https://github.com/MoizSitabkhan/BMI-Calculator/blob/master/images/Image%203.png)
