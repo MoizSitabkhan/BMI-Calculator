@@ -6,3 +6,5 @@ BMI Calculator made with Python GUI
 #### It stores data for all the calculations made along with their Name, BMI, Status(healthy fat or obese) and the date when it was calculated
 
 #### GUI looks like this :
+
+![GUI Home](/images/Image 1.png)
